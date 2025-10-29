@@ -1,6 +1,6 @@
 <!-- 🌟 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:00BCD4&height=200&section=header&text=Hello!%20I'm%20Sandra%20💻&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:00BCD4&height=250&section=header&text=Hello!%20I'm%20Sandra%20💻&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 ## 😉 Hello there!
