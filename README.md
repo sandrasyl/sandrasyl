@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Hello!&fontSize=80&fontColor=7941b5&animation=scaleIn" alt="Hello!" />
+<!-- 🌟 HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:00BCD4&height=200&section=header&text=Hello!%20I'm%20Sandra%20💻&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
 
 ## 😉 Hello there!
 
@@ -26,3 +29,6 @@ I recently finished my **Web Application Development** studies and I’m current
 - Building personal projects to improve my skills  
 - Learning **React** and exploring **modern front-end tools**  
 - Preparing my **portfolio** for GitHub Pages  
+
+### ✨ Fun fact
+I’m a huge fan of **fantasy books** and **video games**, especially **Pokémon**! 📚🎮✨
