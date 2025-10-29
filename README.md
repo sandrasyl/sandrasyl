@@ -1,6 +1,6 @@
 <!-- 🌟 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:00BCD4&height=250&section=header&text=Hello!%20I'm%20Sandra%20💻&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=240&section=header&text=Hello!%20I'm%20Sandra%20💻&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 ## 😉 Hello there!
@@ -31,5 +31,5 @@ I recently finished my **Web Application Development** studies and I’m current
 - Preparing my **portfolio** for GitHub Pages  
 
 ### ✨ Fun fact
-I’m a huge fan of **fantasy books** and **video games**! 📚🎮
+I’m a huge fan of **fantasy books** and **video games**! 📚🎮 <br>
 I created my own **Pokémon guessing game**, you can check it out here [PokéGuess Game](https://sandrasyl.github.io/pokeguessgame/) 
