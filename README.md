@@ -6,7 +6,7 @@
 ## 😉 Hello there!
 
 I'm **Sandra**, a **Junior Web Developer** passionate about creating clean, modern, and responsive web applications.  
-I recently finished my **Web Application Development** studies and I’m currently looking for an internship to keep learning and growing as a developer. 💻✨  
+I recently finished my **Web Application Development** studies and I’m currently looking for an internship to keep learning and growing as a developer 💻 
 
 ### 🛠️ Technologies & Tools
 
@@ -31,4 +31,4 @@ I recently finished my **Web Application Development** studies and I’m current
 - Preparing my **portfolio** for GitHub Pages  
 
 ### ✨ Fun fact
-I’m a huge fan of **fantasy books** and **video games**, especially **Pokémon**! 📚🎮✨
+I’m a huge fan of **fantasy books** and **video games**! 📚🎮
