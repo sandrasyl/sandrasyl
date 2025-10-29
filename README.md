@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hello!&fontSize=80&fontColor=7941b5&animation=scaleIn" alt="Hello!" />
 
-## 👋 Hello there!
+## 😉 Hello there!
 
 I'm **Sandra**, a **Junior Web Developer** passionate about creating clean, modern, and responsive web applications.  
 I recently finished my **Web Application Development** studies and I’m currently looking for an internship to keep learning and growing as a developer. 💻✨  
@@ -21,7 +21,7 @@ I recently finished my **Web Application Development** studies and I’m current
 
 </div>
 
-### 🌱 What I'm working on
+### 🤔 What I'm working on
 
 - Building personal projects to improve my skills  
 - Learning **React** and exploring **modern front-end tools**  
