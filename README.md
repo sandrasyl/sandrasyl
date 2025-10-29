@@ -1,9 +1,8 @@
 <!-- 🌟 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=250&section=header&text=Hello!%20💻&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=250&section=header&text=Hello there!%20💻&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
-## 😉 Hello there!
 
 I'm **Sandra**, a **Junior Web Developer** passionate about creating clean, modern, and responsive web applications.  
 I recently finished my **Web Application Development** studies and I’m currently looking for an internship to keep learning and growing as a developer 💻 
