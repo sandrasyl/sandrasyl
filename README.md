@@ -32,4 +32,4 @@ I recently finished my **Web Application Development** studies and I’m current
 
 ### ✨ Fun fact
 I’m a huge fan of **fantasy books** and **video games**! 📚🎮 <br>
-I created my own **Pokémon guessing game**, you can check it out here [PokéGuess Game](https://sandrasyl.github.io/pokeguessgame/) 
+I created my own **Pokémon guessing game**, you can check it out here: [PokéGuess Game](https://sandrasyl.github.io/pokeguessgame/) 
