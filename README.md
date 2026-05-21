@@ -7,6 +7,8 @@
 I'm **Sandra**, a **Junior Web Developer** passionate about creating clean, modern, and responsive web applications.  
 I recently finished my **Web Application Development** studies and I’m currently looking for an internship to keep learning and growing as a developer 💻 
 
+Portfolio (in process) - https://sandrasyl.github.io/portfolio/
+
 ### 🛠️ Technologies & Tools
 
 <div align="center">
